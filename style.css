@@ -44,3 +44,7 @@ h3{
 .commands li{
     margin-bottom: 15px;
 }
+
+.commands h3{
+    margin-bottom: 5px;
+}
